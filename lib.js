@@ -28,6 +28,7 @@ module.exports = {
         }
     },
     "rules": {
+        "react/react-in-jsx-scope": "off",
         "import/no-unresolved": "off",
         "@typescript-eslint/naming-convention": [
             "error",
